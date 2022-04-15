@@ -7,6 +7,7 @@ FUNCTIONALITY OF THE SYSTEM4
 
 
 ABSTRACT
+
 By using the language C++, a System is created which enables the buying, selling, adding of 
 Books in a Book Store. This System first prints out a menu of 4 different choices after the 
 execution. These choices include the Customer, Employee, Dealer, and a way to exit the 
@@ -17,7 +18,9 @@ according to the chosen user type. Each of the menus include functions to go bac
 Initial Menu. Using this Method, new Books or Customers entering the Book Store can be 
 initialized and served. These Menus and Methos are all clearly and detailed explained in the 
 Project Report.
+
 INTRODUCTION
+
 Why a management system is important for companies? A management system's quality 
 directly affects the efficiency of the company. What happens without a management system 
 in any company? Mixing names, quantities or prices of products can have significant 
@@ -43,6 +46,7 @@ Entering Dealer display menu of the Dealer. 1. to show the Employee the sellable
 the Dealer. 2. To sell an agreed book to Employee. 3. To go back to initial menu.
 
 FUNCTIONALITY OF THE SYSTEM
+
 A Book Store System was designed to be able to buy, sell , add Books which are bought 
 from a Book Dealer and sold to Customers. After the execution of the code 4 Choices are 
 presented. These are Customer, Employee, Dealer and Exit. Choosing to Exit closes the 
